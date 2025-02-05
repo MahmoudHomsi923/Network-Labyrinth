@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netzwerklabyrinth_V_Console", "Netzwerklabyrinth_V_Console\Netzwerklabyrinth_V_Console.csproj", "{2201FB6C-C071-4319-BA46-6CEB03749FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2201FB6C-C071-4319-BA46-6CEB03749FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2201FB6C-C071-4319-BA46-6CEB03749FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2201FB6C-C071-4319-BA46-6CEB03749FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2201FB6C-C071-4319-BA46-6CEB03749FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C8E5B60-5B07-4E2E-95C4-4113FCE06A1A}
+	EndGlobalSection
+EndGlobal

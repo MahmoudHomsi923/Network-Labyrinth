@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\netzwerklabrinth_v_wpf\\labyrinth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|solutionrelative:netzwerklabrinth_v_wpf\\labyrinth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\netzwerklabrinth_v_wpf\\manuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|solutionrelative:netzwerklabrinth_v_wpf\\manuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\netzwerklabrinth_v_wpf\\automatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|solutionrelative:netzwerklabrinth_v_wpf\\automatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\netzwerklabrinth_v_wpf\\manuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|solutionrelative:netzwerklabrinth_v_wpf\\manuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\netzwerklabrinth_v_wpf\\automatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|solutionrelative:netzwerklabrinth_v_wpf\\automatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|e:\\ctrl-s\\netzwerklabrinth_v_wpf - kopie\\netzwerklabrinth_v_wpf\\netzwerklabrinth_v_wpf\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|solutionrelative:netzwerklabrinth_v_wpf\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|e:\\ctrl-s\\netzwerklabrinth_v_wpf - kopie\\netzwerklabrinth_v_wpf\\netzwerklabrinth_v_wpf\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CC2C64-7F9F-4661-8075-0F8C9A254C45}|Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF.csproj|solutionrelative:netzwerklabrinth_v_wpf\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Main.cs",
+              "RelativeDocumentMoniker": "Netzwerklabrinth_V_WPF\\Main.cs",
+              "ToolTip": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Main.cs",
+              "RelativeToolTip": "Netzwerklabrinth_V_WPF\\Main.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:38:19.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Automatic.cs",
+              "DocumentMoniker": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Automatic.cs",
+              "RelativeDocumentMoniker": "Netzwerklabrinth_V_WPF\\Automatic.cs",
+              "ToolTip": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Automatic.cs",
+              "RelativeToolTip": "Netzwerklabrinth_V_WPF\\Automatic.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:55:28.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Labyrinth.cs",
+              "DocumentMoniker": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Labyrinth.cs",
+              "RelativeDocumentMoniker": "Netzwerklabrinth_V_WPF\\Labyrinth.cs",
+              "ToolTip": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Labyrinth.cs",
+              "RelativeToolTip": "Netzwerklabrinth_V_WPF\\Labyrinth.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAMwLgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:27:14.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manuel.cs",
+              "DocumentMoniker": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Manuel.cs",
+              "RelativeDocumentMoniker": "Netzwerklabrinth_V_WPF\\Manuel.cs",
+              "ToolTip": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Manuel.cs",
+              "RelativeToolTip": "Netzwerklabrinth_V_WPF\\Manuel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:25:04.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Main.cs",
+              "RelativeDocumentMoniker": "Netzwerklabrinth_V_WPF\\Main.cs",
+              "ToolTip": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Main.cs [Design]",
+              "RelativeToolTip": "Netzwerklabrinth_V_WPF\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:23:58.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Automatic.cs [Design]",
+              "DocumentMoniker": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Automatic.cs",
+              "RelativeDocumentMoniker": "Netzwerklabrinth_V_WPF\\Automatic.cs",
+              "ToolTip": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Automatic.cs [Design]",
+              "RelativeToolTip": "Netzwerklabrinth_V_WPF\\Automatic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:23:56.597Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manuel.cs [Design]",
+              "DocumentMoniker": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Manuel.cs",
+              "RelativeDocumentMoniker": "Netzwerklabrinth_V_WPF\\Manuel.cs",
+              "ToolTip": "E:\\Ctrl-s\\Netzwerklabrinth_V_WPF - Kopie\\Netzwerklabrinth_V_WPF\\Netzwerklabrinth_V_WPF\\Manuel.cs [Design]",
+              "RelativeToolTip": "Netzwerklabrinth_V_WPF\\Manuel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:23:49.875Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
